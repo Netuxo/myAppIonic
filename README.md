@@ -1,0 +1,2 @@
+# myAppIonic
+Estudo de Ionic
